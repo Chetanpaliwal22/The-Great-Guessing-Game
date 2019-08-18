@@ -1,3 +1,3 @@
-# The-Great-Guessing-Game-COMP-6411-
+# The-Great-Guessing-Game
 
 To start the game run the guess.py file. 
